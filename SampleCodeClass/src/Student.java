@@ -39,6 +39,12 @@ public class Student {
      return;
 }
 void myTest();
+ B2
 //B2 changes
 //B2-2
+
+int countAll()
+{return 1;}
+//The Bi new
+ B1
 }
