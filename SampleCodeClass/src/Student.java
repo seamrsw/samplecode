@@ -41,5 +41,4 @@ public class Student {
 void myTest();
 int countAll()
 {return 1;}
-//B1
 }
